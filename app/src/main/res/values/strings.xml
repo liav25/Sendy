@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Sendy</string>
+    <string name="country_prefixes_key">country_prefixes</string>
+    <string name="selected_prefix">selected_prefix</string>
+    <string-array name="country_prefixes">
+        <item>Israel (+972)</item>
+        <item>United States (+1)</item>
+        <item>Bangladesh (+880)</item>
+        <item>Canada (+1)</item>
+        <item>Ivory Coast (+225)</item>
+        <item>Egypt (+20)</item>
+        <item>France (+33)</item>
+        <item>Germany (+49)</item>
+        <item>India (+91)</item>
+        <item>Indonesia (+62)</item>
+        <item>Mexico (+52)</item>
+        <item>Nigeria (+234)</item>
+        <item>Pakistan (+92)</item>
+        <item>Poland (+48)</item>
+        <item>Russia (+7)</item>
+        <item>South Africa (+27)</item>
+        <item>Taiwan (+886)</item>
+        <item>Thailand (+66)</item>
+        <item>Turkey (+90)</item>
+        <item>United Arab Emirates (+971)</item>
+        <item>United Kingdom (+44)</item>
+        <item>Vietnam (+84)</item>
+    </string-array>
+    <string-array name="country_prefix_values">
+        <item>+972</item>
+        <item>+1</item>
+        <item>+880</item>
+        <item>+1</item>
+        <item>+225</item>
+        <item>+20</item>
+        <item>+33</item>
+        <item>+49</item>
+        <item>+91</item>
+        <item>+62</item>
+        <item>+52</item>
+        <item>+234</item>
+        <item>+92</item>
+        <item>+48</item>
+        <item>+7</item>
+        <item>+27</item>
+        <item>+886</item>
+        <item>+66</item>
+        <item>+90</item>
+        <item>+971</item>
+        <item>+44</item>
+        <item>+84</item>
+    </string-array>
+</resources>
