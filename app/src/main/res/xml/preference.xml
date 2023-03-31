@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="Country Prefixes">
+        <ListPreference
+            android:key="@string/country_prefixes_key"
+            android:title="Select a country"
+            android:summary="Choose a country prefix"
+            android:entries="@array/country_prefixes"
+            android:entryValues="@array/country_prefix_values"
+            android:defaultValue="1" />
+    </PreferenceCategory>
+</PreferenceScreen>
